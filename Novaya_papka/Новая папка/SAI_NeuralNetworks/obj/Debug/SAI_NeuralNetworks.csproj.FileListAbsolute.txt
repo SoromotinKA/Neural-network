@@ -1,0 +1,21 @@
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form1.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Properties.Resources.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.csproj.GenerateResource.Cache
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Debug\SAI_NeuralNetworks.exe
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Debug\SAI_NeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Debug\ClassLibraryNeuralNetworks.dll
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Debug\ClassLibraryNeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.exe
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form2.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form3.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form1.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form2.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form3.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form4.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Properties.Resources.resources
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.csproj.GenerateResource.Cache
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.exe
+C:\Users\PGTima\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.pdb
