@@ -15,7 +15,7 @@ namespace SAI_NeuralNetworks
     {
         // Счетчик для настройки нейронов в скрытых слоях
         NumericUpDown[] NLayers;
-        // Метки скытых слоев
+        // Метки скрытых слоев
         Label[] NLayerLabels;
         // Количество скрытых слоев
         int countLayers=0;
@@ -36,7 +36,7 @@ namespace SAI_NeuralNetworks
 
             NLayers = new NumericUpDown[countLayers];
             NLayerLabels = new Label[countLayers];
-
+            //пробегаем по всем слоям
             for (int i = 0; i < countLayers; i++)
             {
                 // Создаем счетчик слоев
