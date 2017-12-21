@@ -21,7 +21,7 @@ namespace SAI_NeuralNetworks
         // 1 - идет обучение. 0 - нет
         bool run = false;
 
-
+      //Создаем нейросеть
         public void CreateNW(int SizeX, int []Layers)
         {
             NET = new NeuralNW(SizeX, Layers);
